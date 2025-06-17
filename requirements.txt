@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain-openai
+langchain-community
+langchain
+faiss-cpu # or faiss-gpu if you have a GPU and want to use it
+pypdf # For PyPDFDirectoryLoader
+sentence-transformers # For HuggingFaceEmbeddings
